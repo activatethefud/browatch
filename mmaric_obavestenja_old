@@ -1,0 +1,271 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="http://www.matf.bg.ac.rs/p/css/stilovi.css" /><!--   Styles -->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Sve vesti</title>
+        <meta name="keywords" content="sve vesti" />
+        <meta name="description" content="sve vesti" />
+
+    <!-- //////////////////////  FX slide    //////////////////////////// -->
+
+    <link rel="stylesheet" href="http://www.matf.bg.ac.rs/p/css/fx.slide2.css" type="text/css" media="screen" />
+    <!-- Mootools - the core -->
+	<script type="text/javascript" src="http://www.matf.bg.ac.rs/p/js/slide2/mootools-1.2-core-yc.js"></script>
+    <!--Toggle effect (show/hide login form) -->
+	<script type="text/javascript" src="http://www.matf.bg.ac.rs/p/js/slide2/mootools-1.2-more.js"></script>
+	<script type="text/javascript" src="http://www.matf.bg.ac.rs/p/js/slide2/fx.slide.js"></script>
+	<!-- END Fx.Slide -->
+
+
+    <!-- //////////////////////  highslide    //////////////////////////// -->
+    <script type="text/javascript" src="http://www.matf.bg.ac.rs/p/highslide/highslide.min.php"></script>
+	<link rel="stylesheet" type="text/css" href="http://www.matf.bg.ac.rs/p/css/highslide-html.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="http://www.matf.bg.ac.rs/p/css/highslide-with-gallery.css" />
+
+	<script type="text/javascript">
+	hs.showCredits = 0;
+	hs.graphicsDir = 'http://www.matf.bg.ac.rs/p/highslide/graphics/';
+	hs.align = 'center';
+	hs.transitions = ['expand', 'crossfade'];
+	hs.outlineType = 'rounded-white';
+	hs.fadeInOut = true;
+	hs.dimmingOpacity = 0.75;
+	</script>
+    <!-- Tiny mce math uoutput -->
+
+    <script type="text/javascript" src="http://www.matf.bg.ac.rs/p/admin/tiny_mce/plugins/asciimath/js/ASCIIMathMLwFallback.js"></script>
+    <script type="text/javascript" src="http://www.matf.bg.ac.rs/p/admin/tiny_mce/plugins/asciisvg/js/ASCIIsvgPI.js"></script>
+    <script type="text/javascript">
+        var AScgiloc = 'http://www.imathas.com/imathas/filter/graph/svgimg.php';
+        var AMTcgiloc = "http://www.imathas.com/cgi-bin/mimetex.cgi";
+    </script>
+
+    </head>
+
+<body>
+    
+
+<div id="content">
+   <a href="http://www.matf.bg.ac.rs" title="Matematički fakultet Univerzitet u Beogradu " target="_blank">
+        <div id="matf_logo"></div>
+   </a>
+
+   <a href="http://www.matf.bg.ac.rs/p/-maricm"  title="Pocetna stranica Miroslav Marić">
+       <div id="logo" class="f-left">
+            <h1>Miroslav Marić</h1>
+            <h3>Univerzitet u Beogradu, Matematički fakultet</h3>
+
+        </div>
+     </a>
+    <br class="clear" />
+
+<ul id="menu">
+    <li><a class="" href="http://www.matf.bg.ac.rs/p/maricm/pocetna/">Početna</a></li>
+<li><a class="" href="http://www.matf.bg.ac.rs/p/maricm/nastava/">Nastava</a></li>
+<li><a class="" href="http://www.matf.bg.ac.rs/p/maricm/nauka/">Nauka</a></li>
+<li><a class="" href="http://www.matf.bg.ac.rs/p/maricm/galerija/">Galerija</a></li>
+
+</ul>
+<div class="clear"><br /></div>
+
+<div id="right">
+    <div class="caption"><p>Vesti</p></div>
+    <div class="box post">
+        <ul>
+            <li>
+                        <a class="item" href="http://www.matf.bg.ac.rs/p/maricm/vest/8539/Оперативни-системи---испит/">Оперативни системи - испит
+                        </a><br/>
+                        <span class="smaller low">05.&nbsp;Jul,&nbsp;2021<a href="http://www.matf.bg.ac.rs/p/maricm/vest/8539/Оперативни-системи---испит/">Komentari (0)</a></span>
+                      </li>
+                    <li>
+                        <a class="item" href="http://www.matf.bg.ac.rs/p/maricm/vest/8164/Оперативни-системи---испит/">Оперативни системи - испит
+                        </a><br/>
+                        <span class="smaller low">18.&nbsp;Jun,&nbsp;2020<a href="http://www.matf.bg.ac.rs/p/maricm/vest/8164/Оперативни-системи---испит/">Komentari (0)</a></span>
+                      </li>
+                    <li>
+                        <a class="item" href="http://www.matf.bg.ac.rs/p/maricm/vest/8066/Увид-у-радове/">Увид у радове
+                        </a><br/>
+                        <span class="smaller low">18.&nbsp;Mart,&nbsp;2020<a href="http://www.matf.bg.ac.rs/p/maricm/vest/8066/Увид-у-радове/">Komentari (0)</a></span>
+                      </li>
+                    <li>
+                        <a class="item" href="http://www.matf.bg.ac.rs/p/maricm/vest/6495/Оперативни-системи---испит/">Оперативни системи - испит
+                        </a><br/>
+                        <span class="smaller low">15.&nbsp;Februar,&nbsp;2020<a href="http://www.matf.bg.ac.rs/p/maricm/vest/6495/Оперативни-системи---испит/">Komentari (0)</a></span>
+                      </li>
+                    <li>
+                        <a class="item" href="http://www.matf.bg.ac.rs/p/maricm/vest/7216/Увид-у-радове/">Увид у радове
+                        </a><br/>
+                        <span class="smaller low">17.&nbsp;Jul,&nbsp;2019<a href="http://www.matf.bg.ac.rs/p/maricm/vest/7216/Увид-у-радове/">Komentari (0)</a></span>
+                      </li>
+                    
+        </ul>
+        <p  class="center"><strong><a href="http://www.matf.bg.ac.rs/p/maricm/sve-vesti/">sve vesti</a></strong></p>
+    </div>
+
+    <br />
+<!--
+    <div class="caption"><p>Pretraga</p></div>
+    <div class="box">
+        <form method="post" action="http://www.matf.bg.ac.rs/p/maricm/pretraga/"  id="search_form">
+        <div>
+            <input class="text" name="keywords" type="text" size="13" />
+            <select name="category" >
+                <option value="news">Vesti</option>
+                <option value="classes">Nastava</option>
+            </select>
+
+            <input name="search"  class="search"  type="submit" value="" />
+        </div>
+        </form>
+    </div>
+    <div><br /></div>
+    -->
+</div> <!--  end of right  -->
+
+<div id="center">
+    <div class="article">
+        <div class="content">
+            <h2>Sve vesti</h2>
+
+            
+                    <div class="article">
+                            <h3><a  href="http://www.matf.bg.ac.rs/p/maricm/vest/8539/Оперативни-системи---испит/">Оперативни системи - испит</a></h3>
+                            <div class="content">
+                                <p><span>Испит из Оперативних система за студенте који су положили практични део биће одржан 23. 7. 2021. године у 18ч на Студентском тргу.&nbsp; &nbsp;&nbsp;</span></p>
+                                <br />
+                                                <a class="f-right"  href="http://www.matf.bg.ac.rs/p/maricm/vest/8539/Оперативни-системи---испит/">detaljnije >></a><br />
+                            </div>
+
+                            <div class="info">
+                                <ul class="post_info">
+                                    <li>09.&nbsp;Jul,&nbsp;2020</li>
+                                    <li><a  href="http://www.matf.bg.ac.rs/p/maricm/vest/8539/Оперативни-системи---испит/"> Komentari(0)</a></li>
+                                </ul>
+                            </div>
+                      </div><br /> <!-- end of article  -->
+                
+                    <div class="article">
+                            <h3><a  href="http://www.matf.bg.ac.rs/p/maricm/vest/8164/Оперативни-системи---испит/">Оперативни системи - испит</a></h3>
+                            <div class="content">
+                                <p>Због тренутне ситуације&nbsp;<span>&ndash;</span>&nbsp;једном положени практични део испита важиће у преосталим испитним роковима у школској 2019/2020. години. Теоријски део испита за студенте који на овај начин полажу испит ће бити организован 24.06.2020. у 15ч у св. Николе.&nbsp;</p>
+                                <br />
+                                                <a class="f-right"  href="http://www.matf.bg.ac.rs/p/maricm/vest/8164/Оперативни-системи---испит/">detaljnije >></a><br />
+                            </div>
+
+                            <div class="info">
+                                <ul class="post_info">
+                                    <li>18.&nbsp;April,&nbsp;2020</li>
+                                    <li><a  href="http://www.matf.bg.ac.rs/p/maricm/vest/8164/Оперативни-системи---испит/"> Komentari(0)</a></li>
+                                </ul>
+                            </div>
+                      </div><br /> <!-- end of article  -->
+                
+                    <div class="article">
+                            <h3><a  href="http://www.matf.bg.ac.rs/p/maricm/vest/8066/Увид-у-радове/">Увид у радове</a></h3>
+                            <div class="content">
+                                <p>Имајући у виду ванредно стање неће бити увида у радове уживо као што је планирано. Молим студенте да ме мејлом контактирају како би добили детаљније информације о радовима.&nbsp;</p>
+                                <br />
+                                                <a class="f-right"  href="http://www.matf.bg.ac.rs/p/maricm/vest/8066/Увид-у-радове/">detaljnije >></a><br />
+                            </div>
+
+                            <div class="info">
+                                <ul class="post_info">
+                                    <li>18.&nbsp;Mart,&nbsp;2020</li>
+                                    <li><a  href="http://www.matf.bg.ac.rs/p/maricm/vest/8066/Увид-у-радове/"> Komentari(0)</a></li>
+                                </ul>
+                            </div>
+                      </div><br /> <!-- end of article  -->
+                
+                    <div class="article">
+                            <h3><a  href="http://www.matf.bg.ac.rs/p/maricm/vest/6495/Оперативни-системи---испит/">Оперативни системи - испит</a></h3>
+                            <div class="content">
+                                <p>Испит из Оперативних система биће одржан 22.02.2020. године у 13ч на Студентском тргу.&nbsp;</p>
+                                <br />
+                                                <a class="f-right"  href="http://www.matf.bg.ac.rs/p/maricm/vest/6495/Оперативни-системи---испит/">detaljnije >></a><br />
+                            </div>
+
+                            <div class="info">
+                                <ul class="post_info">
+                                    <li>25.&nbsp;Januar,&nbsp;2019</li>
+                                    <li><a  href="http://www.matf.bg.ac.rs/p/maricm/vest/6495/Оперативни-системи---испит/"> Komentari(0)</a></li>
+                                </ul>
+                            </div>
+                      </div><br /> <!-- end of article  -->
+                
+                    <div class="article">
+                            <h3><a  href="http://www.matf.bg.ac.rs/p/maricm/vest/7216/Увид-у-радове/">Увид у радове</a></h3>
+                            <div class="content">
+                                <p>Радове из Оперативних система студенти могу погледати у четвртак 18.07.2019. године у 12ч у Јагићевој.</p>
+                                <br />
+                                                <a class="f-right"  href="http://www.matf.bg.ac.rs/p/maricm/vest/7216/Увид-у-радове/">detaljnije >></a><br />
+                            </div>
+
+                            <div class="info">
+                                <ul class="post_info">
+                                    <li>17.&nbsp;Jul,&nbsp;2019</li>
+                                    <li><a  href="http://www.matf.bg.ac.rs/p/maricm/vest/7216/Увид-у-радове/"> Komentari(0)</a></li>
+                                </ul>
+                            </div>
+                      </div><br /> <!-- end of article  -->
+                
+                    <div class="article">
+                            <h3><a  href="http://www.matf.bg.ac.rs/p/maricm/vest/6239/Консултације/">Консултације</a></h3>
+                            <div class="content">
+                                <p>Консултације се одржавају понедељком од 16 часова.&nbsp;</p>
+                                <br />
+                                                <a class="f-right"  href="http://www.matf.bg.ac.rs/p/maricm/vest/6239/Консултације/">detaljnije >></a><br />
+                            </div>
+
+                            <div class="info">
+                                <ul class="post_info">
+                                    <li>28.&nbsp;Oktobar,&nbsp;2018</li>
+                                    <li><a  href="http://www.matf.bg.ac.rs/p/maricm/vest/6239/Консултације/"> Komentari(0)</a></li>
+                                </ul>
+                            </div>
+                      </div><br /> <!-- end of article  -->
+                <br class="clear" /><div class="pagination"><span class="position">&nbsp;&lt;&lt;&nbsp;</span><span class="position active">&nbsp;1&nbsp;</span><span class="position">&nbsp; &gt;&gt;&nbsp;</span></div>
+
+
+        <br />
+        </div> <!-- end of content-->
+    </div> <!-- end of article -->
+
+    <div class="btm_nav">
+        <ul>
+            <li><a href="javascript:history.go(-1)" title="nazad">nazad</a></li>
+            <li><a href="#" title="vrh">vrh</a></li>
+        </ul>
+    </div>
+</div> <!-- end of center -->
+<div id="left">
+    <div class="caption"><p>Tekući kursevi</p> </div>
+    <div id="categories">
+        <ul>
+            <li><a href="http://www.matf.bg.ac.rs/p/maricm/kurs/41/operativni-sistemi/">Operativni sistemi</a></li><li><a href="http://www.matf.bg.ac.rs/p/maricm/kurs/21/uvod-u-operativne-sisteme-i-racunarske-mreze/">Uvod u operativne sisteme i računarske mreže</a></li><li><a href="http://www.matf.bg.ac.rs/p/maricm/kurs/23/metodika-nastave-racunarstva/">Metodika nastave računarstva</a></li>
+        </ul>
+        <br />
+    </div>
+    <br />
+</div> <!--  end of left  -->    <br class="clear" />
+
+    <div id="footer">
+        <div id="fl">
+                <ul id="foot_menu" >
+                    <li><a class="" href="http://www.matf.bg.ac.rs/p/maricm/pocetna/">Početna</a></li>
+<li><a class="" href="http://www.matf.bg.ac.rs/p/maricm/nastava/">Nastava</a></li>
+<li><a class="" href="http://www.matf.bg.ac.rs/p/maricm/nauka/">Nauka</a></li>
+<li><a class="" href="http://www.matf.bg.ac.rs/p/maricm/galerija/">Galerija</a></li>
+
+                </ul>
+
+            <p>&copy; 2009 Miroslav Marić Univerzitet u Beogradu, Matematički fakultet<br />
+            Design &amp; Development: <a href="http://aleksland.com" target="_blank" >Aleksandar Smiljković</a></p>
+
+        </div>
+    </div>
+
+    <br />
+</div>
+    </body>
+</html>

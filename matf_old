@@ -1,0 +1,736 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<link rel="shortcut icon ﻿" href="http://www.matf.bg.ac.rs/images/favicon.ico" />
+	<link rel="alternate" type="application/rss+xml" title="My RSS Feed" href="http://www.matf.bg.ac.rs/rss.xml" />
+		<title>Univerzitet u Beogradu, Matematički fakultet</title>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta name="language" content="Serbian, Srpski" />
+	<meta name="keywords" content="Univerzitet u Beogradu, Matematički fakultet, , matf, matematika, informatika, racunarstvo,astronomija" />
+	<meta name="description" content="Univerzitet u Beogradu, Matematički fakultet, " />
+	<meta name="revisit-after" content="7 days" />
+<!--	<script type="text/javascript"> 
+    var adfly_id = 9098554; 
+    var adfly_advert = 'int'; 
+    var frequency_cap = 5; 
+    var frequency_delay = 5; 
+    var init_delay = 3; 
+    var popunder = true; 
+</script> 
+<script src="https://cdn.adf.ly/js/entry.js"></script> --> 
+	<!-- ///////////////////// STILOVI //////////////////////////////-->	
+	 <link rel="stylesheet" type="text/css" media="screen" href="http://www.matf.bg.ac.rs/css/styles.css.php?v=2.0" /> 
+    
+	<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="http://www.matf.bg.ac.rs/css/styles-msie.css" /><![endif]-->
+	
+	<!--  	///////////////  	Tabs 	 	////////////////////	  -->
+	<link rel="stylesheet" href="http://www.matf.bg.ac.rs/js/tabs/tabs.css" type="text/css" media="screen" />
+	<!-- <script type="text/javascript" src="/js/tabs/jquery.js.php"></script>  -->
+    <script type="text/javascript" src="http://www.matf.bg.ac.rs/js/tabs/jquery.js"></script>
+	<script type="text/javascript" src="http://www.matf.bg.ac.rs/js/tabs/jquery-tabs.js"></script>
+
+	<!-- ScrollTo -->
+	
+	<script type="text/javascript" src="http://www.matf.bg.ac.rs/js/scollTo/scrollTo.js"></script>
+	<script type="text/javascript" src="http://www.matf.bg.ac.rs/js/scollTo/scrl_init.js"></script>
+	
+	<script type="text/javascript">
+	// The following function is called once the rest of the document is fully loaded
+	$(document).ready(function()
+	{
+		$("#tabs > ul").tabs(); // Make the tabs.
+		$("#tabs2 > ul").tabs(); // Make the tabs.
+	});
+	</script>
+	
+	<!--  //////////////////////////    MENU     /////////////////////////// -->
+	<!-- <script type='text/javascript' src='js/menu/jquery-1.2.3.min.js'></script> -->
+	<script type='text/javascript' src='http://www.matf.bg.ac.rs/js/menu/menu.js'></script>
+	<link rel="stylesheet" href="http://www.matf.bg.ac.rs/css/menu.css" type="text/css" media="screen" />
+	
+	<!-- /////////////  easySlide	//////////   -->
+	<link rel="stylesheet" type="text/css" href="http://www.matf.bg.ac.rs/js/easySlider/easySlider.css" media="screen" />		 		
+	<!-- <script src="js/easySlider/jquery-1.2.2.js"></script>   Allready loaded   -->	
+	<script type="text/javascript" src="http://www.matf.bg.ac.rs/js/easySlider/jquery.slideviewer.1.1.js"></script>
+	
+	<script type="text/javascript">
+		jQuery(document).ready(function(){		
+			jQuery('#easySlide > ul').jqGalScroll({height:220}); 
+		});
+	</script>
+	<!-- End of easySlide  -->
+	
+	<!-- //////////////////	Input Waterark	    //////////////////////////-->
+	<script src="http://www.matf.bg.ac.rs/js/watermarkinput/jquery.watermarkinput.js" type="text/javascript"></script>
+	
+	<!-- //////////////////////  highslide    //////////////////////////// -->
+    <script type="text/javascript" src="http://www.matf.bg.ac.rs/highslide/highslide.min.php"></script>
+    
+	<link rel="stylesheet" type="text/css" href="http://www.matf.bg.ac.rs/css/highslide-html.css" /> 
+	
+	<link rel="stylesheet" type="text/css" media="screen" href="http://www.matf.bg.ac.rs/css/highslide-with-gallery.css" /> 
+	
+	<script type="text/javascript">
+	hs.showCredits = 0;
+	hs.graphicsDir = 'http://www.matf.bg.ac.rs/highslide/graphics/';
+	hs.align = 'center';
+	hs.transitions = ['expand', 'crossfade'];
+	hs.outlineType = 'rounded-white';
+	hs.fadeInOut = true;
+	hs.dimmingOpacity = 0.75;
+
+
+	</script>
+
+	<meta name="google-site-verification" content="7KGL0apC4oti0lFs-5kfxHq5LSBHi3LAv3VsxHx4Q4s" />
+</head>
+
+<body>
+
+<div id="wrap">
+	<div id="up"></div>
+	
+	<div id="head">
+		
+		<ul class="lang">
+			<li><a href="http://www.matf.bg.ac.rs/lat/">Latinica</a></li>
+			<li>
+				<a href="http://www.matf.bg.ac.rs/eng/">English</a>
+			</li>
+		</ul>
+		<!-- TOP MENU  -->
+
+<ul id="nav">
+			<li ><a href="http://www.matf.bg.ac.rs/">ПОЧЕТНА</a></li>
+			
+			<li class="current">
+				<a href="#">О ФАКУЛТЕТУ</a>
+				<ul>
+										
+						<li><a href="http://www.matf.bg.ac.rs/m/25/istorijat/">Историјат</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/26/rukovodstvo-fakulteta/">Руководство факултета</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/27/savet-fakulteta/">Савет факултета</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/28/strucne-sluzbe/">Стручне службе</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/92/pozdravna-rec-dekana/">Поздравна реч Декана</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/93/katedre/">Катедре</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/112/akreditacija/">Акредитација</a></li>
+												<li><a href="http://www.math.rs/cp/46/pozicije-univerziteta-u-beogradu-na-svetskim-rang-listama-univerziteta-%E2%80%A9i-pozicije-univerziteta-u-beogradu-u-oblasti-matematike/" target="blank">Позиције на ранг листама</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/114/za-medije/">За медије</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/115/opsta-akta-fakulteta/">Општа акта Факултета</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/148/javne-nabavke/">Јавне набавке</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/157/izdavacka-delatnost/">Издавачка делатност</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/160/koleginice-i-kolege-u-penziji/">Колегинице и колеге у пензији</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/161/secanja/">Сећања</a></li>
+										</ul>
+			</li> <!-- End of O fakultetu -->
+			
+			<li class="current">
+				<a href="#">НАСТАВА</a>
+				<ul>
+					<li class="current">
+						<a href="#">Наставно особље</a>
+						<ul>
+							<li><a href="http://www.matf.bg.ac.rs/redovni/">Редовни професори</a></li>
+							<li><a href="http://www.matf.bg.ac.rs/vanredni/">Ванредни професори</a></li>
+							<li><a href="http://www.matf.bg.ac.rs/docenti/">Доценти</a></li>
+							<li><a href="http://www.matf.bg.ac.rs/asistenti/">Асистенти</a></li>
+							<li><a href="http://www.matf.bg.ac.rs/saradnici/">Сарадници у настави</a></li>
+							<li><a href="http://www.matf.bg.ac.rs/predavaci/">Запослени у научним и истраживачким звањима</a></li>
+                            <li><a href="http://www.matf.bg.ac.rs/svo-osoblje/">Сви наставници</a></li>
+						</ul>
+		            </li> <!-- End of nastavno osoblje -->
+										
+						<li><a href="http://www.matf.bg.ac.rs/m/36/raspored-ispita/">Распоред испита</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/81/raspored-konsultacija/">Распоред консултација</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/108/kalendar-aktivnosti/">Календар активности</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/117/raspored-kolokvijuma/">Распоред колоквијума </a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/121/prijava-ispita/">Пријава испита </a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/197/pristupna-predavanja-za-izbore-u-nastavnicka-zvanja/">Приступна предавања за изборе у наставничка звања</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/209/konkursi-za-izbor-nastavnika-i-saradnika/">КОНКУРСИ ЗА ИЗБОР НАСТАВНИКА И САРАДНИКА</a></li>
+										</ul>
+			</li> <!-- End of Nastava -->
+			
+			<li class="current">
+				<a href="#">СТУДИЈЕ </a>		
+				<ul>
+		            <li class="current">
+						<a href="#">Основне студије</a>
+						<ul>
+															<li><a href="http://www.matf.bg.ac.rs/m/91/osnovne-matematika/">Математика</a></li>	
+																<li><a href="http://www.matf.bg.ac.rs/m/95/osnovne-astronomija-i-astrofizika/">Астрономија и астрофизика</a></li>	
+																<li><a href="http://www.matf.bg.ac.rs/m/180/osnovne-informatika/">Информатика</a></li>	
+														</ul>
+		            </li> <!-- End of osnovne studije -->					
+		            <li class="current">
+						<a href="#">Мастер студије</a>
+						<ul>
+															<li><a href="http://www.matf.bg.ac.rs/m/96/master-matematika/">Математика</a></li>		
+																<li><a href="http://www.matf.bg.ac.rs/m/97/master-informatika/">Информатика</a></li>		
+																<li><a href="http://www.matf.bg.ac.rs/m/98/master-astronomija-i-astrofizika/">Астрономија и астрофизика </a></li>		
+														</ul>
+					</li> <!--  end of Master studije -->					
+		            <li class="current">
+						<a href="#">Докторске студије</a>
+						<ul>
+															<li><a href="http://www.matf.bg.ac.rs/m/99/doktor-matematika/">Математика </a></li>	
+																<li><a href="http://www.matf.bg.ac.rs/m/100/doktor-informatika/">Информатика</a></li>	
+																<li><a href="http://www.matf.bg.ac.rs/m/101/doktor-astronomija-i-astrofizika/">Астрономија и астрофизика </a></li>	
+														</ul>
+					</li> <!--  End of doktorske studije  -->
+				</ul>	
+			</li> <!-- End of studije -->
+			
+			
+			<li class="current">
+				<a href="#">СТУДЕНТИ</a>
+				<ul>
+					<li><a href="http://www.matf.bg.ac.rs/konkursi/">Конкурси</a></li>
+										
+						<li><a href="http://www.matf.bg.ac.rs/m/30/za-buduce-studente/">За будуће студенте</a></li>
+												<li><a href="http://alas.matf.bg.ac.rs/~parlament/">Студентски парламент</a></li>
+												<li><a href="http://alumni.matf.bg.ac.rs/">Алумни удружење Матф.плус</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/107/razmena-studenata/">Размена студената</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/134/finansijske-obaveze-studenata/">Финансијске обавезе студената</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/135/uputstvo-za-upis-studenata-u-vise-godine-studija/">Упутство за упис студената у више године студија</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/145/doktorske-disertacije/">Докторске дисертације</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/146/master-radovi/">Мастер радови</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/149/podela-studenata-po-grupama/">Подела студената по групама</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/166/upis-na-master-i-doktorske-studije/">УПИС НА МАСТЕР И ДОКТОРСКЕ СТУДИЈЕ</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/174/pravila-i-uslovi-studiranja/">Правила и услови студирања</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/188/Često-postavljana-pitanja/">Често постављана питања</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/210/strucna-praksa/">Стручна пракса</a></li>
+											
+						<li><a href="http://www.matf.bg.ac.rs/m/212/razno/">РАЗНО</a></li>
+										</ul>
+			</li> <!-- End of Stdenti-->
+			
+			<li class="current">
+				<a href="#">НАУКА</a>
+				<ul>
+					<li><a href="http://www.matf.bg.ac.rs/seminari/">Семинари</a></li>
+					<li>
+						<a href="#">Конференције</a>
+						<ul>
+							<li><a href="http://www.matf.bg.ac.rs/skupovi-u-zemlji/" >Скупови у земљи</a></li>
+							<li><a href="http://www.matf.bg.ac.rs/skupovi-u-inostranstvu/" >Скупови у иностранству</a></li>
+							<li><a href="http://www.matf.bg.ac.rs/ostali-skupovi/" >Остали скупови</a></li>	
+						</ul>	
+					</li>
+					<li><a href="http://www.matf.bg.ac.rs/projekti/">Пројекти</a></li>
+					<li><a href="http://www.matf.bg.ac.rs/nauka-konkursi/">Koнкурси</a></li>
+				</ul>
+			</li> <!-- End of Naucno istrazivacki rad -->
+			
+			<li>
+				<a href="http://www.matf.bg.ac.rs/galerije/">ГАЛЕРИЈЕ</a>
+			</li>
+			
+			<li>
+				<a href="http://www.matf.bg.ac.rs/kontakt/">КОНТАКТ</a>
+			</li>
+
+		</ul>	
+
+<!-- end of TOP MENU  -->		
+		<div id="head_main">
+		
+			<div id="matf_logo">
+			</div>	
+		
+			<div id="matf_logo_text">
+				<h2>Универзитет у Београду </h2>
+				<h1 class="cir">Математички факултет</h1>
+			</div>
+			
+				
+	<div class="slide">	
+		<div id="easySlide"> 
+			<ul> 
+										<li><img 						alt='&lt;a href="http://www.edusoft.matf.bg.ac.rs/">Образовни софтвер&lt;/a>' src='http://www.matf.bg.ac.rs/thumbs/ljubicasta_sl_sl_sl_sl.jpg' /></li>
+												<li><img 						alt='&lt;a href="http://pripremna.matf.bg.ac.rs/">Припремна настава&lt;/a>' src='http://www.matf.bg.ac.rs/thumbs/PRIPREMNA NASTAVA2021_sl.png' /></li>
+												<li><img 						alt='&lt;a href="http://wordpress.matf.bg.ac.rs/upis_oas/">Упис на Математички факултет&lt;/a>' src='http://www.matf.bg.ac.rs/thumbs/UPIS_sl_sl.png' /></li>
+												<li><img 						alt='&lt;a href="http://oglasi.matf.bg.ac.rs/">Огласи за студенте&lt;/a>' src='http://www.matf.bg.ac.rs/thumbs/OGLASI ZA STUDENTE_sl_sl.png' /></li>
+												<li><img 						alt='&lt;a href="http://www.math.rs/m/30/za-buduce-studente/">За будуће студенте&lt;/a>' src='http://www.matf.bg.ac.rs/thumbs/ZA BUDUCE STUDENTE_sl_sl.png' /></li>
+												<li><img 						alt='&lt;a href="http://takmicenja.matf.bg.ac.rs/#!/">Такмичење Матф2019++&lt;/a>' src='http://www.matf.bg.ac.rs/thumbs/MATF++_sl_sl.png' /></li>
+												<li><img 						alt='&lt;a href="http://www.razvojkarijere.bg.ac.rs/v-savetnik/startujte-pametno">Стартујте паметно - изазови на почетку студирања&lt;/a>' src='http://www.matf.bg.ac.rs/thumbs/VODIC ZA BRUCOSE_sl_sl.png' /></li>
+									</ul> 
+		</div>
+	</div> <!--End of slide -->		
+		</div> <!-- end of head_main-->
+	
+	</div> <!-- end of  head-->
+	
+	<div id="main">
+	
+		<div id="content">
+			<div id="hght"></div>
+		
+			<div class="article">
+			
+						<div class="post">
+			<h3 class="fp" ><a href="http://www.matf.bg.ac.rs/vesti/3408/upis-2021/">  <span class="arow">>></span> &nbsp;Упис 2021</a></h3>		
+			<p><a href="http://www.math.rs/files/KonacnaRangListaJun2021.pdf" target="_blank">Коначна ранг листа кандидата у уписном року ЈУН 2021</a></p>
+<p>Број слободних места 9.7.2021:</p>
+<p><a class="highslide f-right" onclick="return hs.expand(this)" href="http://www.matf.bg.ac.rs/uploads/SlobodnaMesta9.7.2021..png"><img title="Klikni da uvecas" src="http://www.matf.bg.ac.rs/thumbs/SlobodnaMesta9.7.2021._thb.png" alt="" /></a></p>
+<p>Упис се наставља 15. 7 у 10.00, другом прозивком по ранг листи.<br />Сваког радног дана до 14. 7. у 15.00 биће ажурирана табела са бројем слободних места. <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<br />Право на упис на упражњено место имају само студенти који су присутни на другој прозивци 15.7.2021 у 10.00 (сала 718, 4. спрат).</p>
+<p><strong><strong>Детаљне&nbsp;  информације у вези са пријављивањем, пријемним испитом,   уписом можете  пронаћи на порталу посвећеном нашим будућим студентима: <a href="http://wordpress.matf.bg.ac.rs/upis_oas/" target="_blank">УПИС</a>.</strong></strong></p>			
+			<p>
+				<a href="http://www.matf.bg.ac.rs/vesti/3408/upis-2021/" class="more_cir clear" > детаљније </a>
+			</p>	
+		</div> <!-- end of post   -->
+				<div class="post">
+			<h3 class="fp" ><a href="http://www.matf.bg.ac.rs/vesti/3407/prijava-ispita/">  <span class="arow">>></span> &nbsp;Пријава испита </a></h3>		
+			<p>Пријава испита  2021.</p>
+<p>ЈУН1 и ЈУН2</p>
+<p><cite></cite></p>
+<p><cite></p>			
+			<p>
+				<a href="http://www.matf.bg.ac.rs/vesti/3407/prijava-ispita/" class="more_cir clear" > детаљније </a>
+			</p>	
+		</div> <!-- end of post   -->
+				<div class="post">
+			<h3 class="fp" ><a href="http://www.matf.bg.ac.rs/vesti/3406/raspored-ispita/">  <span class="arow">>></span> &nbsp;Распоред испита</a></h3>		
+			<p>Испити које су студенти слушали у пролећном семестру 2019/20. године,  могу се полагати и у јануарском испитном року 2021. године. Сходно  ванредним одлукама о полагању испита, донетим за школску 2019/20,  писмени део испита за предмет из пролећног семестра, положен у неком од  рокова 2019/20. године, важи закључно са јануарским испитним роком  2021. године. Испити за предмете из јесењег семестра полажу се у  испитном периоду јануар &ndash; септембар, а испити за предмете из летњег  семестра у периоду јун &ndash; јануар.</p>
+<p><a href="http://poincare.matf.bg.ac.rs/~kmiljan/raspored/RASPORED_ISPITA_JUN_2021.pdf" target="_blank">РАСПОРЕД ИСПИТА У ИСПИТНОМ РОКУ ЈУН 1</a><br /> <a href="http://poincare.matf.bg.ac.rs/~kmiljan/raspored/RASPORED_ISPITA_JUL_2021.pdf" target="_blank">РАСПОРЕД ИСПИТА У ИСПИТНОМ РОКУ ЈУН 2<br /> </p>			
+			<p>
+				<a href="http://www.matf.bg.ac.rs/vesti/3406/raspored-ispita/" class="more_cir clear" > детаљније </a>
+			</p>	
+		</div> <!-- end of post   -->
+				<div class="post">
+			<h3 class="fp" ><a href="http://www.matf.bg.ac.rs/vesti/3405/strucna-praksa/">  <span class="arow">>></span> &nbsp;Стручна пракса</a></h3>		
+			<p>Студенти уписани на ст. програм МАС &ndash; Информатика, акредитован 2019.   године, током студија треба да обаве најмање 90 сати стручне праксе. <br /><br />Руководиоци стручне праксе у школској 2020/21 години су доценти др Нина Радојичић Матић (<cite>nina@matf.bg.ac.rs</cite>) и др Данијела Симић (<cite>danijela@matf.bg.ac.rs</cite>). <br /></p>			
+			<p>
+				<a href="http://www.matf.bg.ac.rs/vesti/3405/strucna-praksa/" class="more_cir clear" > детаљније </a>
+			</p>	
+		</div> <!-- end of post   -->
+				<div class="post">
+			<h3 class="fp" ><a href="http://www.matf.bg.ac.rs/vesti/3400/matematicki-fakultet-ovlascen-za-ispitivanje-i-kontrolu-iz-oblasti-igara-na-srecu/">  <span class="arow">>></span> &nbsp;Математички факултет овлашћен за испитивање и контролу из области игара на срећу</a></h3>		
+			<p>Министарство финансија Републике Србије је својим решењем овластило  Математички факултет Универзитета у Београду да обавља послове  испитивања и контроле на начин и по поступку који је прописан одредбама  Закона о играма на срећу и подзаконским актима у области приређивања  посебних игара на срећу.  <br /><br /> Реализација ових послова у овиру Математичког факултета је поверена организационој јединици  <a href="http://ispitivanje.math.rs/index.html" target="_blank">Одељење за испитивање и контролу</a>.</p>
+<!--
+<p>Драги будући студенти,  <br /><br /> Математички факултет Универзитета у Београду расписује конкурс за упис на основне академске студије у школској 2021/2022. години. За упис у прву годину основних академских студија на Математичком факултету могу се пријавити кандидати који су завршили гимназију или четворогодишњу средњу стручну школу. Програми основних академских студија реализује се у оквиру три акредитована студијска програма.   <br /><br /> Кандидати за упис на основне академске студије полажу пријемни испит 30.6.2021. из математике.  <br /><br /> Све информације о вези конкурса за упис можете пронаћи на <a href=" http://upis.matf.bg.ac.rs/" mce_href=" http://upis.matf.bg.ac.rs/" target="_blank">страници</a> Упис.  <br /><br /> Детаље о пријемном 2021 можете пронаћи <a href="http://upis.matf.bg.ac.rs/?page_id=40" mce_href="http://upis.matf.bg.ac.rs/?page_id=40" target="_blank">овде</a> а комплетну сатницу са свим датумима и роковима у оквиру сегмента <a href="http://upis.matf.bg.ac.rs/?page_id=16" mce_href="http://upis.matf.bg.ac.rs/?page_id=16" target="_blank">важни датуми</a>.</p>
+-->			
+			<p>
+				<a href="http://www.matf.bg.ac.rs/vesti/3400/matematicki-fakultet-ovlascen-za-ispitivanje-i-kontrolu-iz-oblasti-igara-na-srecu/" class="more_cir clear" > детаљније </a>
+			</p>	
+		</div> <!-- end of post   -->
+				<div class="post">
+			<h3 class="fp" ><a href="http://www.matf.bg.ac.rs/vesti/3381/preliminarni-zahtev-za-priznavanje-ispita-prilikom-upisa-po-posebnim-uslovima/">  <span class="arow">>></span> &nbsp;Прелиминарни захтев за признавање испита приликом уписа по посебним условима</a></h3>		
+			<p><a href="http://www.matf.bg.ac.rs/files/Odluka_o_posebnim_slucajevima_upisa_na_osnovne_studije.pdf " target="_blank">Одлука о посебним случајевима уписа (без пријемног испита)</a><br /><br />Кандидати који су заинтересовани за упис неког од студијских програма које реализује Математички факултет, по посебним условима предвиђеним чл. 96 Статута Универзитета у Београду, у периоду 16. 5. 2021. &ndash; 20. 6. 2021. могу поднети <em>прелиминарни захтев</em>.<br /></p>			
+			<p>
+				<a href="http://www.matf.bg.ac.rs/vesti/3381/preliminarni-zahtev-za-priznavanje-ispita-prilikom-upisa-po-posebnim-uslovima/" class="more_cir clear" > детаљније </a>
+			</p>	
+		</div> <!-- end of post   -->
+				<div class="post">
+			<h3 class="fp" ><a href="http://www.matf.bg.ac.rs/vesti/3144/obavestenje-o-diplomama/">  <span class="arow">>></span> &nbsp;Обавештење о дипломама</a></h3>		
+			<p>Обавештавамо све дипломиране студенте да своје дипломе могу подићи сваког радног дана од 11<cite>h</cite> до 14<cite>h </cite>на шалтеру Студентске службе, соба 321 у приземљу. Молимо вас да претходно проверите на серверу <cite>Hypatia</cite> да ли вам је евидентирана уплата за израду дипломе.  <br /></p>			
+			<p>
+				<a href="http://www.matf.bg.ac.rs/vesti/3144/obavestenje-o-diplomama/" class="more_cir clear" > детаљније </a>
+			</p>	
+		</div> <!-- end of post   -->
+				<div class="post">
+			<h3 class="fp" ><a href="http://www.matf.bg.ac.rs/vesti/3119/odluke-o-ukidanju-studijskih-programa/">  <span class="arow">>></span> &nbsp;Одлуке о укидању студијских програма</a></h3>		
+			<p></p>			
+			<p>
+				<a href="http://www.matf.bg.ac.rs/vesti/3119/odluke-o-ukidanju-studijskih-programa/" class="more_cir clear" > детаљније </a>
+			</p>	
+		</div> <!-- end of post   -->
+				<div class="post">
+			<h3 class="fp" ><a href="http://www.matf.bg.ac.rs/vesti/3084/dobrodosli-na-matematicki-fakultet/">  <span class="arow">>></span> &nbsp;Добродошли на Математички факултет!</a></h3>		
+			<p>Да ли знате да се на Математичком факултету можете школовати за нека од најперспективнијих занимања, посматрано у глобалним оквирима?</p>
+<p></p>			
+			<p>
+				<a href="http://www.matf.bg.ac.rs/vesti/3084/dobrodosli-na-matematicki-fakultet/" class="more_cir clear" > детаљније </a>
+			</p>	
+		</div> <!-- end of post   -->
+				 
+
+		
+﻿
+				
+				<div class="btm_nav">
+					<ul>
+						<li><a href="javascript:history.go(-1)" title="nazad"> назад </a></li>
+						<li id="scrTop"><a href="#up" title="vrh"> врх </a></li>
+					</ul>
+				</div>
+		
+			</div> <!-- End of artile -->
+		</div> <!-- end od content -->
+		
+		<!--          /////////      KOL 1         /////////////            -->
+
+<div id="kol1">
+	
+	<!--  recent_news -->
+	
+	<div class="caption"><h4>Вести и дешавања</h4></div>
+	
+	<ul class="news_items">
+							<li>
+						<span class="title"><a  class="item" href="http://www.matf.bg.ac.rs/vesti/3441/odrzan-prijemni-ispit-za-upis-na-matematicki-fakultet-30jun-2021/">Одржан пријемни испит за упис на Математички факултет, 30.јун 2021.</a></span><br/>
+						<span class="smaller">30.&nbsp;Јун,&nbsp;2021 - <a href="http://www.matf.bg.ac.rs/vesti/3441/odrzan-prijemni-ispit-za-upis-na-matematicki-fakultet-30jun-2021/">Коментари (0)</a></span>
+					</li>
+										<li>
+						<span class="title"><a  class="item" href="http://www.matf.bg.ac.rs/vesti/3439/letnja-skola-i-radionica-iz-simplekticke-topologije-16-20-avgust-2021/">Летња школа и радионица из симплектичке топологије, 16-20. август 2021.</a></span><br/>
+						<span class="smaller">28.&nbsp;Јун,&nbsp;2021 - <a href="http://www.matf.bg.ac.rs/vesti/3439/letnja-skola-i-radionica-iz-simplekticke-topologije-16-20-avgust-2021/">Коментари (0)</a></span>
+					</li>
+										<li>
+						<span class="title"><a  class="item" href="http://www.matf.bg.ac.rs/vesti/3436/obavestenje-o-raspisivanju-konkursa--jul-2021/">Обавештење о расписивању конкурса- јул 2021.</a></span><br/>
+						<span class="smaller">25.&nbsp;Јун,&nbsp;2021 - <a href="http://www.matf.bg.ac.rs/vesti/3436/obavestenje-o-raspisivanju-konkursa--jul-2021/">Коментари (0)</a></span>
+					</li>
+										<li>
+						<span class="title"><a  class="item" href="http://www.matf.bg.ac.rs/vesti/3435/spisak-tema-master-radova-odobrenih-na-383-sednici-nnv-a-elektronskoj-sednici-odrzanoj-18062021-godine/">Списак тема мастер радова одобрених на 383. седници ННВ-а (електронској седници) одржаној 18.06.2021. године.</a></span><br/>
+						<span class="smaller">21.&nbsp;Јун,&nbsp;2021 - <a href="http://www.matf.bg.ac.rs/vesti/3435/spisak-tema-master-radova-odobrenih-na-383-sednici-nnv-a-elektronskoj-sednici-odrzanoj-18062021-godine/">Коментари (0)</a></span>
+					</li>
+										<li>
+						<span class="title"><a  class="item" href="http://www.matf.bg.ac.rs/vesti/3434/obavestenje-o-raspisivanju-konkursa--jun-2021/">Обавештење о расписивању конкурса- јун 2021.</a></span><br/>
+						<span class="smaller">21.&nbsp;Јун,&nbsp;2021 - <a href="http://www.matf.bg.ac.rs/vesti/3434/obavestenje-o-raspisivanju-konkursa--jun-2021/">Коментари (0)</a></span>
+					</li>
+										<li>
+						<span class="title"><a  class="item" href="http://www.matf.bg.ac.rs/vesti/3431/odbrana-doktorske-disertacije-marije-jelic-milutinovic/">Одбрана докторске дисертације Марије Јелић Милутиновић</a></span><br/>
+						<span class="smaller">14.&nbsp;Јун,&nbsp;2021 - <a href="http://www.matf.bg.ac.rs/vesti/3431/odbrana-doktorske-disertacije-marije-jelic-milutinovic/">Коментари (0)</a></span>
+					</li>
+										<li>
+						<span class="title"><a  class="item" href="http://www.matf.bg.ac.rs/vesti/3429/istrazivacka-praksa-za-studente-na-matematickom-institutu-sanu-rok-za-prijavu-30-jun-2021/">Истраживачка пракса за студенте на Математичком институту САНУ, рок за пријаву 30. јун 2021.</a></span><br/>
+						<span class="smaller">13.&nbsp;Јун,&nbsp;2021 - <a href="http://www.matf.bg.ac.rs/vesti/3429/istrazivacka-praksa-za-studente-na-matematickom-institutu-sanu-rok-za-prijavu-30-jun-2021/">Коментари (0)</a></span>
+					</li>
+					 
+	</ul>
+    <!-- Aktivnosti na seminarima -->
+    <br />
+    <div class="caption"><h4>Активности на семинарима</h4></div>
+
+	<ul class="news_items">
+							<li>
+						<span class="title"><a  class="item" href="http://www.matf.bg.ac.rs/vesti/3442/seminar-za-racunarstvo-i-primenjenu-matematiku-27-jul-2021/">Семинар за рачунарство и примењену математику, 27. јул 2021.</a></span><br/>
+						<span class="smaller">01.&nbsp;Јул,&nbsp;2021 - <a href="http://www.matf.bg.ac.rs/vesti/3442/seminar-za-racunarstvo-i-primenjenu-matematiku-27-jul-2021/">Коментари (0)</a></span>
+					</li>
+										<li>
+						<span class="title"><a  class="item" href="http://www.matf.bg.ac.rs/vesti/3440/seminar-katedre-za-racunarstvo-i-informatiku-1-jul-2021/">Семинар Катедре за рачунарство и информатику, 1. јул 2021.</a></span><br/>
+						<span class="smaller">30.&nbsp;Јун,&nbsp;2021 - <a href="http://www.matf.bg.ac.rs/vesti/3440/seminar-katedre-za-racunarstvo-i-informatiku-1-jul-2021/">Коментари (0)</a></span>
+					</li>
+										<li>
+						<span class="title"><a  class="item" href="http://www.matf.bg.ac.rs/vesti/3438/seminar-za-vestacku-inteligenciju-30-jun-2021/">Семинар за вештачку интелигенцију, 30. јун 2021.</a></span><br/>
+						<span class="smaller">28.&nbsp;Јун,&nbsp;2021 - <a href="http://www.matf.bg.ac.rs/vesti/3438/seminar-za-vestacku-inteligenciju-30-jun-2021/">Коментари (0)</a></span>
+					</li>
+										<li>
+						<span class="title"><a  class="item" href="http://www.matf.bg.ac.rs/vesti/3437/seminar-za-racunarstvo-i-primenjenu-matematiku-29-jun-2021/">Семинар за рачунарство и примењену математику, 29. јун 2021.</a></span><br/>
+						<span class="smaller">28.&nbsp;Јун,&nbsp;2021 - <a href="http://www.matf.bg.ac.rs/vesti/3437/seminar-za-racunarstvo-i-primenjenu-matematiku-29-jun-2021/">Коментари (0)</a></span>
+					</li>
+										<li>
+						<span class="title"><a  class="item" href="http://www.matf.bg.ac.rs/vesti/3433/odeljenje-za-matematiku-25-jun-2021/">Одељење за математику, 25. јун 2021.</a></span><br/>
+						<span class="smaller">21.&nbsp;Јун,&nbsp;2021 - <a href="http://www.matf.bg.ac.rs/vesti/3433/odeljenje-za-matematiku-25-jun-2021/">Коментари (0)</a></span>
+					</li>
+										<li>
+						<span class="title"><a  class="item" href="http://www.matf.bg.ac.rs/vesti/3432/seminar-za-racunarstvo-i-primenjenu-matematiku-23-jun-2021/">Семинар за рачунарство и примењену математику, 23. јун 2021.</a></span><br/>
+						<span class="smaller">21.&nbsp;Јун,&nbsp;2021 - <a href="http://www.matf.bg.ac.rs/vesti/3432/seminar-za-racunarstvo-i-primenjenu-matematiku-23-jun-2021/">Коментари (0)</a></span>
+					</li>
+					
+
+	</ul>
+
+
+	<!-- end of recent_news -->	
+	<a href="/sve-vesti/" class="all_cir f-right" > све вести </a>	
+	
+	<!-- serach  -->
+	<br class="clear" />
+	
+	
+
+	
+	
+</div> <!-- end of kol1 -->
+
+<!--          /////////      KOL 2         /////////////            -->
+
+<div id="kol2">
+
+	<div id="webmail">
+		
+		<div id="top"><h3>Webmail</h3></div>
+		
+		<div id="box">
+				<ul class="wm_links">
+					<li><a href="https://webmail.matf.bg.ac.rs/" target="_blank"><span>Poincare</span></a></li>
+					<li><a href="https://webmail.alas.matf.bg.ac.rs/src/login.php" target="_blank"><span>Alas</span></a></li>
+				</ul>
+		
+				<!-- 
+				<div id="tabs2" class="tabs">
+					<ul>
+						<li><a href="#poincare"><span>Poincare</span></a></li>
+						<li><a href="#alas"><span>Alas</span></a></li>
+					</ul>
+					
+					<div id="poincare">
+						<form method="post" action="https://webmail.matf.bg.ac.rs/src/redirect.php">
+						<input type="hidden" name="login_username" value="gRMhvpMfVN" />
+							<input type="hidden" name="secretkey" value="OYUmQLxvFd" />
+
+							<input id="mail_user" name="gRMhvpMfVN" class="input" type="text" size="20" onfocus="alreadyFocused=true;" /><br />
+							<input id="mail_pass" name="OYUmQLxvFd" class="input" type="password" size="20" onfocus="alreadyFocused=true;"  /><br />
+
+							<input type="hidden" name="js_autodetect_results" value="0" />
+							<input type="hidden" name="just_logged_in" value="1" />
+							
+						<input name="submit" class="button" value="submit" type="submit" />
+						</form>
+					</div>
+					
+					<div id="alas">
+						<form method="post" action="https://webmail.alas.matf.bg.ac.rs/src/redirect.php" name="login_form">
+							<input id="mail_user2" name="login_username"   class="input" type="text" /><br />
+							<input id="mail_pass2" name="secretkey"   class="input" type="password"  /><br />
+							<input name="submit" class="button" value="submit" type="submit" />
+						</form>
+					</div>
+				</div>
+				-->
+		</div>
+		
+		<div id="btm"></div>
+		
+	</div> <!-- end of webmail -->
+	
+	<div id="search_box">
+		<div id="search_boxtop"><h3>Тражи</h3></div>
+		<div id="search_boxcont">
+			<form method="post" action="">
+				<input class="input" name="find" type="text" /><br />
+				<input type="hidden" name="searching" value="yes" />
+				<input  name="search" value="search" type="submit" />
+			</form>
+		</div>
+		<div id="search_boxbtm"></div>
+	</div> 
+	
+	<br class="clear" />
+
+    <div class="caption_links"><h4>Корисни линкови</h4></div>
+<ul id="links">
+		
+				<li><a rel="nofollow" href="https://hypatia.matf.bg.ac.rs:10333/StudInfo/" target="blank">Hypatia (студенти)</a></li>
+
+				
+				<li><a rel="nofollow" href="https://hypatia.matf.bg.ac.rs:10022/StudInfo/scripts/nastavnici/prijavljivanjeFormular" target="blank">Hypatia (наставно особље)</a></li>
+
+				
+				<li><a rel="nofollow" href="http://alas.matf.bg.ac.rs" target="blank">Алас</a></li>
+
+				
+				<li><a rel="nofollow" href="http://www.bg.ac.rs/" target="blank">Универзитет у Београду</a></li>
+
+				
+				<li><a rel="nofollow" href="http://www.edusoft.matf.bg.ac.rs/" target="blank">Образовни софтвер</a></li>
+
+				
+				<li><a rel="nofollow" href="http://www.math.rs/skupovi-u-zemlji/" target="blank">Научни скупови у Србији</a></li>
+
+				
+				<li><a rel="nofollow" href="http://www.math.rs/skupovi-u-inostranstvu/" target="blank">Научни скупови у иностранству</a></li>
+
+				
+				<li><a rel="nofollow" href="http://www.mpn.gov.rs" target="blank">Министарство просвете, науке и технолошког развоја</a></li>
+
+				
+				<li><a rel="nofollow" href="http://elibrary.matf.bg.ac.rs" target="blank">Виртуелна библиотека</a></li>
+
+				
+				<li><a rel="nofollow" href="http://www.ncd.org.rs/" target="blank">Национални центар за дигитализацију</a></li>
+
+				
+				<li><a rel="nofollow" href="http://www.nb.rs" target="blank">Народна бибилиотека Србије</a></li>
+
+				
+				<li><a rel="nofollow" href="http://nainfo.nb.rs/kobson.82.html" target="blank">КОБСОН</a></li>
+
+				
+				<li><a rel="nofollow" href="http://library.matf.bg.ac.rs/pmb/opac_css/" target="blank">Библиотека МАТФ (е-каталог)</a></li>
+
+				
+				<li><a rel="nofollow" href="http://www.mi.sanu.ac.rs/" target="blank">Математички институт САНУ, Београд</a></li>
+
+				
+				<li><a rel="nofollow" href="http://www.matf.bg.ac.rs/projekti/" target="blank">Пројекти</a></li>
+
+				
+				<li><a rel="nofollow" href="http://www.math.rs/cp/33/eduroam/" target="blank">Eduroam</a></li>
+
+				
+				<li><a rel="nofollow" href="http://www.ctt.bg.ac.rs" target="blank">Центар за трансфер технологије Универзитета у Београду</a></li>
+
+				
+				<li><a rel="nofollow" href="http://www.razvojkarijere.bg.ac.rs/index.php?websection=en_first&lang=en" target="blank">Центар за развој каријере Универзитета у Београду</a></li>
+
+				
+				<li><a rel="nofollow" href="http://legati.matf.bg.ac.rs/" target="blank">Дигитални легати</a></li>
+
+				
+				<li><a rel="nofollow" href="http://oglasi.matf.bg.ac.rs/" target="blank">Огласи за студенте</a></li>
+
+				
+				<li><a rel="nofollow" href="http://mobion.bg.ac.rs/" target="blank"> Мобилност, Еразмус+ програм</a></li>
+
+				
+				<li><a rel="nofollow" href="http://knjizara.matf.bg.ac.rs/" target="blank">Књижара Математичког факултета</a></li>
+
+				
+				<li><a rel="nofollow" href="https://www.sumamatf.rs/" target="blank">Студетнска унија Математичара</a></li>
+
+				
+				<li><a rel="nofollow" href="http://poincare.matf.bg.ac.rs" target="blank">Poincare (стара презентација)</a></li>
+
+				
+				<li><a rel="nofollow" href="http://www.matf.bg.ac.rs/cp/31/pripreme-za-prijemni/" target="blank">Задаци са претходних пријемних испита</a></li>
+
+		</ul>
+	
+
+	
+	
+</div> <!-- end of kol12-->
+
+
+	
+
+	
+	</div> <!-- end of main -->
+
+</div> <!-- end of WRAP -->
+
+<div id="foot">
+
+	<div id="foot_content">
+
+		<a id="matf_small" href="http://www.matf.bg.ac.rs"></a>
+		
+		<div class="f-box">
+		
+				<p>&copy; Copyright  2008 Математички факултет Универзитет у Београду</p>
+				<p>Design &amp; Development <br /><a href="http://aleksland.com" target="blank">Александар Смиљковић</a></p>
+				<p>
+					<a href="#ostavi-komentar" onclick="return hs.htmlExpand(this, { contentId: 'feedback-highslide-html', outlineType: 'rounded-white', useControls: false, outlineWhileAnimating: true} )" class="highslide f-right">
+							Примедбе и сугестије
+					</a>
+				</p>
+				﻿<div> <!-- Highslide html box  -->
+<div class="highslide-html-content" id="feedback-highslide-html">
+	<div class="highslide-header">
+		<ul>
+			<li class="highslide-move">
+				<a href="#" onclick="return false">Помери</a>
+			</li>
+			<li class="highslide-close">
+				<a href="#" onclick="return hs.close(this)">Затвори</a>
+			</li>
+		</ul>	    
+	</div>
+	<!--  html content   -->
+	<div class="highslide-body">
+		<h3>Примедбе и сугестије:</h3>
+		<form method="post" action="">
+			<p>
+				<input name="ime" id="ime2"  size="30" class="input commnt" type="text" />
+			<br />
+				<input name="website" id="website2"  class="input commnt" size="30" type="text" />
+				<span class="smaller low">(опционо)</span>
+			<br />
+				<input name="email"  id="email2"  class="input commnt" size="30" type="text" />
+				<span class="smaller low">(неће бити приказано)</span>
+			<br />
+			<!--
+			<label>Unesite tekst sa slike:</label><br />
+			<img src="" alt="capcha" /><input name="capcha"  size="30" class="input capcha" type="text" size="10" value="" />
+			<br /> -->
+				<textarea name="poruka" cols="50" rows="7">текст поруке</textarea>
+			
+			<br />
+				<input name="addFeedback" value="Pošalji poruku" class="button" type="submit" />
+			</p>
+		</form>	
+	</div>
+	<!-- End of html content  -->
+	<div class="highslide-footer">
+		<div>
+			<span class="highslide-resize" title="Resize">
+				<span></span>
+			</span>
+		</div>
+	</div>
+</div>
+</div> <!-- End of Highslide html box  -->
+		</div>
+		
+		<div class="f-box">	
+	<p>
+				Адреса: Студентски трг 16, <br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				11158 Београд <br>
+				Телефон: (+381) 011 2027 801 <br />
+				Fаx: (+381) 011 2630 151 <br />
+				E-mail: matf@matf.bg.ac.rs  <br />
+				</p>
+			
+				<p>	Жиро рачун: 840-181 5666-68<br />
+					PIB: 100046603</p>
+		
+		</div>
+		
+		<div class="f-box">
+			<br />
+			<ul class="q-links">
+				<li><a href="http://www.matf.bg.ac.rs/">ПОЧЕТНА</a></li>
+				<li><a href="http://www.matf.bg.ac.rs/galerije/">ГАЛЕРИЈЕ</a></li>
+				<li><a href="http://www.matf.bg.ac.rs/kontakt/">KOНТАКТ</a><br /><br /></li>
+				<li><a href="http://www.matf.bg.ac.rs/mapa/">MAПА САЈТА</a></li>
+				<li><a rel="nofollow" href="http://validator.w3.org/check?uri=referer" target="_blank">W3C XHTML 1.0</a></li>
+			</ul>
+			
+		</div>
+		
+		<a id="bu_logo" href="http://www.bg.ac.rs" target="_blank"></a>
+
+	</div> <!-- end of  foot_content-->		
+		
+</div> <!-- end of  foot-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-5246573-9");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
