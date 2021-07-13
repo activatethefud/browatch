@@ -24,7 +24,6 @@ for idx in $(seq 0 2 $((${#sites[@]} - 1))); do
         [ $DIFF_STATUS -lt 2 ] && CHANGED=$((CHANGED | DIFF_STATUS))
 
         mv ${ALIAS} ${ALIAS}_old &&
-        rm "$ALIAS"
 
 done
 
